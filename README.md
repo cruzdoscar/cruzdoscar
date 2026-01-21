@@ -70,22 +70,23 @@ Proximas actualizaciones de stacks:
 
 ---
 
-### 🚕 Zuber Chicago: Análisis de Viajes Compartidos
+### 🚕 EasyCab Chicago: Análisis de Viajes Compartidos
 *Estudio de factores externos y comportamiento del mercado de transporte en Chicago*
 - Análisis de la influencia del clima en la duración y frecuencia de los viajes.
 - SQL avanzado para el cruce de bases de datos meteorológicas y registros de transporte.
 - Prueba de hipótesis estadísticas para validar cambios en la demanda de usuarios.
 
-🔗 https://github.com/cruzdoscar/Zuber-Chicago.git
-
+🔗 https://github.com/cruzdoscar/EasyCab-Chicago.git
+<!--
 ---
+Agregar despues, una vez finalizado el proyecto
 
 ### 🎮 ICE Videojuegos: Análisis de Éxito en el Mercado
 *Identificación de patrones de éxito para lanzamientos globales de videojuegos*
 - Análisis histórico de ventas, géneros y plataformas (consolas vs. PC).
 - Procesamiento de reseñas y calificaciones para predecir el rendimiento comercial.
 - Visualización de tendencias regionales para guiar estrategias de marketing y stock.
-<!--
+
 Poner link al repositorio del proyecto
 🔗 
 -->
