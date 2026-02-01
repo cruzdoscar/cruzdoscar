@@ -8,15 +8,12 @@
 - Automatizando flujos de datos con **Python**.
 - Diseñando dashboards interactivos para mejorar la toma de decisiones.
 
----
-
 ## ✨ Bienvenido a mi GitHub
 
 Aquí desarrollo proyectos de análisis de datos enfocados en resolver problemas reales. Mi meta es transformar el caos de los datos en **modelos útiles, análisis profundos e insights que se puedan contar como una historia.**
 
 Para mí, el storytelling no es el paso final, es el hilo conductor: entiendo el problema de raíz para asegurar que cada línea de código en SQL o Python se traduzca en una **decisión inteligente**.
 
----
 ## 🛠️ Mi Stack Principal
 <!--
 Proximas actualizaciones de stacks:
@@ -47,7 +44,6 @@ Proximas actualizaciones de stacks:
 - **Estadística Descriptiva:** Medidas de tendencia central, dispersión y análisis de outliers.
 - **SQL Avanzado:** Funciones de ventana (Window Functions), JOINs complejos y ETL.
 - **Business Intelligence:** Traducción de necesidades de negocio a requerimientos técnicos.
----
 
 ## 🧭 Enfoque como Analista de Datos
 
@@ -55,8 +51,6 @@ Proximas actualizaciones de stacks:
 🤖 **Utilidad sobre complejidad:** Construyo modelos que resuelven, no solo que impresionan.<br>
 📊 **Visualización con propósito:** Si no se entiende de un vistazo, el análisis no ha terminado.<br>
 🌍 **Impacto:** Busco aplicar la Ciencia de Datos en negocios, sostenibilidad y proyectos con sentido social.
-
----
 
 ## ⭐ Proyectos destacados
 
@@ -68,8 +62,6 @@ Proximas actualizaciones de stacks:
 
 🔗 https://github.com/cruzdoscar/ice_store
 
----
-
 ### 📦 Logística & Eficiencia: Script Bellboy
 *Optimización de flujos logísticos mediante automatización con Python*
 - Automatización de procesos de asignación y seguimiento de servicios.
@@ -78,8 +70,6 @@ Proximas actualizaciones de stacks:
 
 🔗 https://github.com/cruzdoscar/logisitca-interna-hotel.git
 
----
-
 ### 🚕 EasyCab Chicago: Análisis de Viajes Compartidos
 *Estudio de factores externos y comportamiento del mercado de transporte en Chicago*
 - Análisis de la influencia del clima en la duración y frecuencia de los viajes.
@@ -87,7 +77,6 @@ Proximas actualizaciones de stacks:
 - Prueba de hipótesis estadísticas para validar cambios en la demanda de usuarios.
 
 🔗 https://github.com/cruzdoscar/EasyCab-Chicago.git
----
 
 ## 🎓 Background
 
@@ -99,8 +88,6 @@ Emprendimiento · Optimización de costos · Análisis de demanda · Gestión de
 
 📦 **Logística y Operaciones — Bellboy**<br>
 Pensamiento lógico · Eficiencia operativa · Automatización de flujos · Resolución de problemas en tiempo real
-
----
 
 ## 🤝 Conectemos
 📬 cruzd.oscar@gmail.com<br>
