@@ -60,6 +60,16 @@ Proximas actualizaciones de stacks:
 
 ## ⭐ Proyectos destacados
 
+### 🎮 ICE Videojuegos: Análisis de Éxito en el Mercado
+*Identificación de patrones de éxito para lanzamientos globales de videojuegos*
+- Análisis histórico de ventas, géneros y plataformas.
+- Procesamiento de reseñas y calificaciones para predecir el rendimiento comercial.
+- Visualización de tendencias regionales para guiar estrategias de marketing y stock.
+
+🔗 https://github.com/cruzdoscar/ice_store
+
+---
+
 ### 📦 Logística & Eficiencia: Script Bellboy
 *Optimización de flujos logísticos mediante automatización con Python*
 - Automatización de procesos de asignación y seguimiento de servicios.
@@ -77,19 +87,6 @@ Proximas actualizaciones de stacks:
 - Prueba de hipótesis estadísticas para validar cambios en la demanda de usuarios.
 
 🔗 https://github.com/cruzdoscar/EasyCab-Chicago.git
-<!--
----
-Agregar despues, una vez finalizado el proyecto
-
-### 🎮 ICE Videojuegos: Análisis de Éxito en el Mercado
-*Identificación de patrones de éxito para lanzamientos globales de videojuegos*
-- Análisis histórico de ventas, géneros y plataformas (consolas vs. PC).
-- Procesamiento de reseñas y calificaciones para predecir el rendimiento comercial.
-- Visualización de tendencias regionales para guiar estrategias de marketing y stock.
-
-Poner link al repositorio del proyecto
-🔗 
--->
 ---
 
 ## 🎓 Background
